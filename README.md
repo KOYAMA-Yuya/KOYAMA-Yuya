@@ -16,7 +16,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOYAMA-Yuya&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOYAMA-Yuya&theme=default&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=KOYAMA-Yuya&theme=default)
-
 ![](https://raw.githubusercontent.com/KOYAMA-yuya/KOYAMA-yuya/output/github-contribution-grid-snake.svg)
